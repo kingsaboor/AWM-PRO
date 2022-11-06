@@ -1,10 +1,10 @@
 import platform
 
 b = platform.architecture()[0]
-import aw
+
 if b == '64bit':
 
-    import aw
+    import Random
 
 elif b == '32bit':
 
