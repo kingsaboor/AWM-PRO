@@ -1,1 +1,2 @@
 import aw
+menu()
