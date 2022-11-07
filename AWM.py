@@ -1,6 +1,6 @@
-from Random import *
+from Random import main
 
-Random()
+main()
 
 
 
