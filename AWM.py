@@ -1,12 +1,14 @@
-import platform
+from Random import *
 
-b = platform.architecture()[0]
+first_join()
 
-if b == '64bit':
 
-    import Random
+
+
+
+
           
-             menu()
+
 
 
 
