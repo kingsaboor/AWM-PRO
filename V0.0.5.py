@@ -15,6 +15,6 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     import Random
     Random()
-elif bit == '32bit':
-    import Mrk32
-    Random.riaz()
+
+
+
