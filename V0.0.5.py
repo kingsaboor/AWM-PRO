@@ -2,9 +2,9 @@ import os, platform, time
 print('Checking Updates...')
 time.sleep(2)
 os.system('git pull')
-os.system('xdg-open https://www.youtube.com/c/MrQureshiTech')
+os.system('xdg-open https://youtube.com/channel/UCWZ0GDgZaZMQC_UEnCiGBKA')
 time.sleep(2)
-os.system('xdg-open https://www.youtube.com/channel/UCyUzwD8WYuICl5xf4CGZA5w')
+os.system('xdg-open https://facebook.com/groups/termux.command.awm/')
 try:
     import requests
 except:
